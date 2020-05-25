@@ -69,7 +69,7 @@ public class AboutMeFragment extends BaseLiveFragment implements View.OnClickLis
     }
 
     private void startToAbout() {
-        Uri uri = Uri.parse("http://www.easemob.com/about");
+        Uri uri = Uri.parse("https://www.qiniu.com/");
         Intent it = new Intent(Intent.ACTION_VIEW, uri);
         startActivity(it);
     }
