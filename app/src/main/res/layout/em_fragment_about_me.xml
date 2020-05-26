@@ -51,7 +51,7 @@
         android:id="@+id/item_about"
         android:layout_width="0dp"
         android:layout_height="66dp"
-        app:arrowItemTitle="关于环信"
+        app:arrowItemTitle="关于七牛"
         app:arrowItemShowArrow="true"
         app:arrowItemShowDivider="false"
         app:layout_constraintLeft_toLeftOf="parent"
