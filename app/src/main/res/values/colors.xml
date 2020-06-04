@@ -49,4 +49,6 @@
   <color name="holo_green_light">#ff99cc00</color>
   <color name="holo_orange_light">#ffffbb33</color>
   <color name="holo_red_light">#ffff4444</color>
+
+  <color name="qiniu_splash_bg_color">#06A8E1</color>
 </resources>

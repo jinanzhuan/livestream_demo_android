@@ -38,6 +38,12 @@ public class SplashActivity extends BaseLiveActivity {
     }
 
     @Override
+    protected void initSystemFit() {
+        setFitSystemForTheme(true, R.color.qiniu_splash_bg_color);
+        setStatusBarTextColor(true);
+    }
+
+    @Override
     protected void initData() {
         super.initData();
         //初始化demo user数据
